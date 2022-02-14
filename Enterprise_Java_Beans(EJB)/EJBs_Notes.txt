@@ -1,0 +1,31 @@
+ENTERPRISE JAVA BEANS: (EJBs)
+
+	Server Side components that contains the Business logic
+	
+	So, that we can host the beans at any server. Access it in wherever needed.
+	
+	Easily portable & reusable for the applications. No need to write the same business logic
+	multiple types for the different applications.
+	
+	
+	2 Types of Beans:
+		Session Driven. (Capable to maintain all the TASKS)
+		Message Driven. (Sends the response Asynchronously. eg: Warning/Error Messages)
+		
+	
+	Building Blocks of the Beans:
+	
+		Session Bean:
+			1. Enterprise Bean Class [eg: InventoryClass]
+			2. Business Interface [eg: Inventory]
+			3. Helper Classes [if more methods needed outside of the main methods]
+			    eg: Timer
+				
+		JAR: 
+		
+			All the files needed for our bean got compressed to single JAR file.
+			Multiple JAR files are converted into Single WAR or EAR(Enterprise Archive) file.
+		
+		
+		
+		

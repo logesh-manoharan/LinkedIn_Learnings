@@ -1,0 +1,15 @@
+RECURSION STRATEGIES:
+
+	Findout a Big Problem. 
+	
+	Identify a Small Problem. 
+	
+	And findout the Relationship between them.
+	
+	
+	Base Case
+	
+	Known to the Unknown
+	
+		
+Tail Recursion:
